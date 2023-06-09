@@ -27,7 +27,7 @@ REQUIRED = [
 
 # What packages are optional?
 EXTRAS = {
-    # 'fancy feature': ['django'],
+    'fancy feature': ['numba'],
 }
 
 # The rest you shouldn't have to touch too much :)
