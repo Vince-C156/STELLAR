@@ -17,7 +17,7 @@ DESCRIPTION = 'Space docking with PPO using stable baselines 3'
 URL = 'https://github.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING'
 EMAIL = 'vincent.chencs@gmail.com.com'
 AUTHOR = 'Vincent Beau Chen'
-REQUIRES_PYTHON = '>=3.9'
+REQUIRES_PYTHON = '>=3.8'
 VERSION = '0.1.0'
 
 # What packages are required for this module to be executed?
