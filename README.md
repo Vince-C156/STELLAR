@@ -2,6 +2,8 @@
 Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy Optimization. Learning a model-free approach to unify model switching standard.
 
 
+Python3.10 Ubuntu20.04 Cuda-12.0 Vulkan-1.2 at the time of development.
+
 Link to publication [here]
 
 Advisor Professor Copp [[website](https://dcopp.eng.uci.edu/index.html)]
