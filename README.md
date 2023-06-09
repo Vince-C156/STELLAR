@@ -7,6 +7,9 @@ Python3.10 Ubuntu20.04 Cuda-12.0 Vulkan-1.2 at the time of development.
 
 Archetecture : x86_64
 
+
+## Resources to research lab and publication
+
 Link to publication [here]
 
 Advisor Professor Copp [[website](https://dcopp.eng.uci.edu/index.html)]
