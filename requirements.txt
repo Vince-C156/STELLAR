@@ -6,4 +6,4 @@ tensorboard
 matplotlib
 tqdm
 scipy
-
+torchsummary
