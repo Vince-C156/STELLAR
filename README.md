@@ -2,7 +2,10 @@
 Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy Optimization. Learning a model-free approach to unify model switching standard.
 
 
+## THESE ARE NOT DEPENDENCIES THEY ARE MY ENVIRONMENT VERSIONS I DEVELOPED WITH
 Python3.10 Ubuntu20.04 Cuda-12.0 Vulkan-1.2 at the time of development.
+
+Archetecture : x86_64
 
 Link to publication [here]
 
