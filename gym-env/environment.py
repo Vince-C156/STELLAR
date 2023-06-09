@@ -1,4 +1,7 @@
 from reward_shaping import reward_formulation
+import sys
+
+sys.path.append('visualizer')
 from visualizer_close import write2text
 #write2text(chaser, data_dir, file_name, step)
 import numpy as np

@@ -1,4 +1,6 @@
 import numpy as np
+import sys
+sys.path.append("gym-env")
 from environment import ARPOD_GYM
 from dynamics import chaser_continous
 from stable_baselines3 import PPO
