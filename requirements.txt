@@ -1,5 +1,5 @@
 torch
-stable_baselines3
+stable-baselines3
 gymnasium
 numpy
 tensorboard

@@ -12,7 +12,7 @@ import os
 # Minimum dependencies required prior to installation
 INSTALL_REQUIRES = [
     "torch==2.0.1",
-    "stable_baselines3==2.0.0a8",
+    "stable-baselines3==2.0.0a8",
     "gymnasium==0.28.1",
     "numpy==1.23.5"
 ]
