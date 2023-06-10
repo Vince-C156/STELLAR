@@ -4,6 +4,9 @@ Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy 
 ## What is space docking?
 Space docking is the process of connecting two spacecraft together in space. It involves bringing the spacecraft into close proximity, aligning their docking ports, and using a docking mechanism to secure the connection. This maneuver enables crew transfers, resupply missions, module attachment, and the formation of larger structures in space. Rendezvous, alignment, capture, sealing, and pressurization are key steps in the docking process. Space docking plays a crucial role in space exploration, satellite servicing, and the assembly of space stations, requiring precise coordination and specialized docking systems to achieve a successful connection in the challenging conditions of space.
 
+## Who am I
+Hello, my name is Vince. I am an undergraduate researcher specializing in control with reinforcement learning (RL). Currently pursuing a Bachelor of Science in Computer Science at the University of California, Irvine, I am passionate about exploring the intersection of machine learning and control systems. My research focuses on leveraging RL techniques to develop intelligent control algorithms for various applications. I am fascinated by the potential of RL to enhance the capabilities of autonomous systems. Additionally I also hold strong experience in computer vision from object detection to computational geometry (3D reconstruction).
+
 ## Final results published
 <div style="display: flex; justify-content: space-between;">
   <figure style="text-align: center; width: 20%;">
