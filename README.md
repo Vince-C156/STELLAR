@@ -2,7 +2,7 @@
 Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy Optimization. Learning a model-free approach to unify model switching standard.
 ![UROP Symposium Poster Presentation](https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/418cbda5307087b857e35ee0f2a6eb84fa8ee8d6/misc/ARPOD.pptx%20(2).png)
 
-## THESE ARE NOT DEPENDENCIES THEY ARE MY ENVIRONMENT VERSIONS I DEVELOPED WITH
+## CORE ENVIRONMENT DURING DEVELOPMENT
 Python3.10 Ubuntu20.04 Cuda-12.0 Vulkan-1.2 at the time of development.
 
 Archetecture : x86_64
