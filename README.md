@@ -9,7 +9,7 @@ Archetecture : x86_64
 
 
 ## Resources to research lab and publication
-Link to presentation at AAS Guidance, Navigation and Control (GN&C) Conference, 2023[[slides] (https://docs.google.com/presentation/d/1PnKZOP27mqJtLG8vqgT4AOFqMHhQYM8q/edit?usp=sharing&ouid=109971343941983675406&rtpof=true&sd=true)]
+Link to presentation at AAS Guidance, Navigation and Control (GN&C) Conference, 2023[[slides](https://docs.google.com/presentation/d/1PnKZOP27mqJtLG8vqgT4AOFqMHhQYM8q/edit?usp=sharing&ouid=109971343941983675406&rtpof=true&sd=true)]
 
 
 Link to publication [here]
