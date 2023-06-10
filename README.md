@@ -17,6 +17,12 @@ Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy 
   </figure>
 </div>
 
+## INSTALLATION INSTRUCTIONS
+
+Once fully setup the github repo should just be a simple pip install for any python above Python3.8
+
+[python3 -m pip install git+git@github.com:Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING.git]
+
 ## PRESENTATION AT THE UCI UROP SYMPOSIUM
 ![UROP Symposium Poster Presentation](https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/418cbda5307087b857e35ee0f2a6eb84fa8ee8d6/misc/ARPOD.pptx%20(2).png)
 
