@@ -7,6 +7,21 @@ Space docking is the process of connecting two spacecraft together in space. It 
 ## Who am I
 Hi!, my name is Vince. I am an undergraduate researcher specializing in control with reinforcement learning (RL). Currently pursuing a Bachelor of Science in Computer Science at the University of California, Irvine, I am passionate about exploring the intersection of machine learning and control systems. My research focuses on leveraging RL techniques to develop intelligent control algorithms for various applications. I am fascinated by the potential of RL to enhance the capabilities of autonomous systems. Additionally I also hold strong experience in computer vision from object detection to computational geometry (3D reconstruction) through my senior design team UAV Forge, where I have held co-lead and lead responsibilities for the vision subteam.
 
+## Abstract
+We present a Proximal Policy Optimization (PPO) Reinforcement Learning algo-
+rithm for three-dimensional autonomous spacecraft trajectory planning. Specifically,
+we consider a chaser spacecraft performing a rendezvous and docking mission with
+a target spacecraft on a circular orbit. This reinforcement learning approach utilizes
+an actor and critic method to plan safe trajectories for the chaser spacecraft given
+constraints on its motion, including maximum thrust and line-of-sight constraints.
+We consider a fully actuated chaser spacecraft capable of applying continuous thrust
+in all three dimensions. Given this action space, we train a PPO model to perform
+rendezvous and docking maneuvers using spacecraft relative motion dynamics. We
+describe the training procedure and environment in detail and present results of nu-
+merous simulations showing that the trained model produces successful rendezvous
+and docking trajectories that satisfy line-of-sight constraints, even with significant
+random variations in initial conditions
+
 ## Final results published
 <div style="display: flex; justify-content: space-between;">
   <figure style="text-align: center; width: 20%;">
