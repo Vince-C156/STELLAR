@@ -1,5 +1,6 @@
 # PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING
 Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy Optimization. Learning a model-free approach to unify model switching standard.
+
 <img src="https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/1e744758088842f3eeb2445dbdfc8c2a8fb2c7a3/misc/view1newlos.svg" alt="Alt Text" width="350" height="350">
 <img src="https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/1e744758088842f3eeb2445dbdfc8c2a8fb2c7a3/misc/run15shortlos%20(1).svg" alt="Alt Text" width="350" height="350">
 
