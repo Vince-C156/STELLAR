@@ -1,6 +1,8 @@
 # PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING
 Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy Optimization. Learning a model-free approach to unify model switching standard.
 
+## What is space docking?
+Space docking is the process of connecting two spacecraft together in space. It involves bringing the spacecraft into close proximity, aligning their docking ports, and using a docking mechanism to secure the connection. This maneuver enables crew transfers, resupply missions, module attachment, and the formation of larger structures in space. Rendezvous, alignment, capture, sealing, and pressurization are key steps in the docking process. Space docking plays a crucial role in space exploration, satellite servicing, and the assembly of space stations, requiring precise coordination and specialized docking systems to achieve a successful connection in the challenging conditions of space.
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="text-align: center; width: 20%;">
