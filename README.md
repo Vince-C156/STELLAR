@@ -27,7 +27,7 @@ Reinforcement Learning for Spacecraft Docking Trajectories with Proximal Policy 
 
 ![UROP Symposium Poster Presentation](https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/418cbda5307087b857e35ee0f2a6eb84fa8ee8d6/misc/ARPOD.pptx%20(2).png)
 
-## CORE ENVIRONMENT DURING DEVELOPMENT
+## CORE ENVIRONMENT DURING TIME OF RELEASE (6/10/23)
 Python3.10 Ubuntu20.04 Cuda-12.0 Vulkan-1.2 at the time of development.
 
 Archetecture : x86_64
