@@ -8,8 +8,7 @@ Space docking is the process of connecting two spacecraft together in space. It 
 Hi!, my name is Vince. I am an undergraduate researcher specializing in control with reinforcement learning (RL). Currently pursuing a Bachelor of Science in Computer Science at the University of California, Irvine, I am passionate about exploring the intersection of machine learning and control systems. My research focuses on leveraging RL techniques to develop intelligent control algorithms for various applications. I am fascinated by the potential of RL to enhance the capabilities of autonomous systems. Additionally I also hold strong experience in computer vision from object detection to computational geometry (3D reconstruction) through my senior design team UAV Forge, where I have held co-lead and lead responsibilities for the vision subteam.
 
 ## Abstract
-We present a Proximal Policy Optimization (PPO) Reinforcement Learning algo-
-rithm for three-dimensional autonomous spacecraft trajectory planning. Specifically,
+We present a Proximal Policy Optimization (PPO) Reinforcement Learning algorithm for three-dimensional autonomous spacecraft trajectory planning. Specifically,
 we consider a chaser spacecraft performing a rendezvous and docking mission with
 a target spacecraft on a circular orbit. This reinforcement learning approach utilizes
 an actor and critic method to plan safe trajectories for the chaser spacecraft given
