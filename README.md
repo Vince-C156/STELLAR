@@ -9,6 +9,9 @@ Space docking is the process of connecting two spacecraft together in space. It 
 ## Who am I
 Hi!, my name is Vince. I am an undergraduate researcher specializing in control with reinforcement learning (RL). Currently pursuing a Bachelor of Science in Computer Science at the University of California, Irvine, I am passionate about exploring the intersection of machine learning and control systems. My research focuses on leveraging RL techniques to develop intelligent control algorithms for various applications. I am fascinated by the potential of RL to enhance the capabilities of autonomous systems. Additionally I also hold strong experience in computer vision from object detection to computational geometry (3D reconstruction) through my senior design team UAV Forge, where I have held co-lead and lead responsibilities for the vision subteam.
 
+## PRESENTATION AT THE UCI UROP SYMPOSIUM
+![UROP Symposium Poster Presentation](https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/418cbda5307087b857e35ee0f2a6eb84fa8ee8d6/misc/ARPOD.pptx%20(2).png)
+
 ## Abstract
 We present a Proximal Policy Optimization (PPO) Reinforcement Learning algorithm for three-dimensional autonomous spacecraft trajectory planning. Specifically,
 we consider a chaser spacecraft performing a rendezvous and docking mission with
@@ -68,9 +71,6 @@ Once fully setup the github repo should just be a simple pip install for any pyt
 [python3 -m pip install git+git@github.com:Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING.git]
 
 ## Usage guide
-
-## PRESENTATION AT THE UCI UROP SYMPOSIUM
-![UROP Symposium Poster Presentation](https://raw.githubusercontent.com/Vince-C156/PLANNING-AUTONOMOUS-SPACECRAFT-RENDEZVOUS-AND-DOCKING-TRAJECTORIES-VIA-REINFORCEMENT-LEARNING/418cbda5307087b857e35ee0f2a6eb84fa8ee8d6/misc/ARPOD.pptx%20(2).png)
 
 
 
