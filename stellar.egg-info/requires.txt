@@ -1,0 +1,9 @@
+gymnasium>=0.28.1
+matplotlib>=3.6.2
+numpy>=1.23.5
+scipy>=1.9.3
+stable-baselines3>=2.0.0a8
+tensorboard>=2.11.2
+torch>=2.0.1
+torchvision>=0.14.1
+tqdm>=4.64.1

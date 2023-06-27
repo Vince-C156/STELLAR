@@ -1,10 +1,7 @@
 import numpy as np
-import sys
 import matplotlib.pyplot as plt
-sys.path.append("gym-env")
 from dynamics import chaser_discrete
 import os
-sys.path.append('visualizer')
 from visualizer_all import render_visual
 from time import sleep
 #os.chdir('runs')
