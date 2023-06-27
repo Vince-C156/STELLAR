@@ -8,6 +8,7 @@ stellar.egg-info/dependency_links.txt
 stellar.egg-info/not-zip-safe
 stellar.egg-info/requires.txt
 stellar.egg-info/top_level.txt
+<<<<<<< HEAD
 stellar/arpodenvs/__init__.py
 stellar/arpodenvs/dynamics.py
 stellar/arpodenvs/environment.py
@@ -22,3 +23,9 @@ stellar/visualizer/run_render_all.py
 stellar/visualizer/visualizer_all.py
 stellar/visualizer/visualizer_close.py
 stellar/visualizer/visualizer_far.py
+=======
+stellar/gym-env/__init__.py
+stellar/gym-env/dynamics.py
+stellar/gym-env/environment.py
+stellar/gym-env/reward_shaping.py
+>>>>>>> 93258bf2472ca54e0cf85c7a5f855f26cc688051

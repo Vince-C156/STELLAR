@@ -10,7 +10,12 @@ Keywords: ppo,rl,RPOD,docking
 Platform: UNKNOWN
 Classifier: Intended Audience :: Science/Research
 Classifier: License :: OSI Approved :: MIT License
+<<<<<<< HEAD
 Classifier: Programming Language :: Python :: 3.10
 Classifier: Programming Language :: Python :: 3.9
+=======
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+>>>>>>> 93258bf2472ca54e0cf85c7a5f855f26cc688051
 Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
 Requires-Python: >=3.9
