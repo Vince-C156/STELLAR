@@ -1,8 +1,8 @@
-from reward_shaping import reward_formulation
+from stellar.arpodenvs.reward_shaping import reward_formulation
+#import reward_formulation
 import sys
-
-sys.path.append('visualizer')
-from visualizer_close import write2text
+#from stellar.visualizer import write2text
+#sys.path.append('visualizer')
 #write2text(chaser, data_dir, file_name, step)
 import numpy as np
 #import cupy as np
@@ -10,7 +10,7 @@ import pdb
 import gymnasium as gym
 from gymnasium import spaces
 import os
-from dynamics import chaser_continous
+from stellar.arpodenvs.dynamics import chaser_continous
 import math
 
 class ARPOD:
@@ -118,11 +118,13 @@ class ARPOD_GYM(gym.Env):
                     'net_reward' : 0.001,
                     'gross_reward' : 0.001}
         self.iscontinous = True
-        model_id = len(os.listdir('runs/'))
+        self.runs_log = os.path.join(__file__.strip(os.path.basename(__file__)), 'runs/')
+        print(self.runs_log)
+        model_id = len(os.listdir(self.runs_log))
         self.runs_dir = f'vbar{model_id}'
 
-        print(f'creating runs log in directory {self.runs_dir}')
-        os.mkdir(f'runs/{self.runs_dir}')
+        print(f'creating runs log in directory {self.runs_log}/{self.runs_dir}')
+        os.mkdir(f'{self.runs_log}/{self.runs_dir}')
 
     def step(self, action):
         reward = 0

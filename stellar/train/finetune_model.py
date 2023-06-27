@@ -41,7 +41,7 @@ policy_dict = {'activation_fn': GELU, 'net_arch': {'pi': [130, 44, 30], 'vf': [1
                                    normalize_advantage=True,
                                    max_grad_norm=0.5,
                                    use_sde=True,
-                                   tensorboard_log='arpod-ppo',
+                                   tenmake_vec_env(ARPOD_GYM, wrapper_class=TimeLimitWrapper, n_envs=1)sorboard_log='arpod-ppo',
                                    sde_sample_freq=4,
                                    _init_setup_model=True,
                                    device='cuda',
@@ -85,13 +85,7 @@ class HParamCallback(BaseCallback):
             "train/n_updates": 0,
             "train/learning_rate": 0.0,
             "train/std": 0.0,
-            "train/loss": 0.0,
-            "train/explained_variance": 0.0
-        }
-        metric_dict = {"rollout/ep_len_mean": 0,
-                        "rollout/ep_rew_mean": 0}
-        self.logger.record(
-            "hparams",
+            "train/loss": 0.0,simulate_arpod
             HParam(hparam_dict, metric_dict),
             exclude=("stdout", "log", "json", "csv"),
         )
@@ -226,14 +220,7 @@ new_model = PPO(ActorCriticPolicy, env=normalized_vec_env,
                                    ent_coef=0.08,
                                    clip_range=0.25,
                                    target_kl=0.035,
-                                   batch_size=2500,
-                                   verbose=1,
-                                   n_epochs=25,
-                                   normalize_advantage=True,
-                                   max_grad_norm=0.5,
-                                   use_sde=True,
-                                   tensorboard_log='arpod-ppo',
-                                   sde_sample_freq=4,
+                                   batch_size=2500,np.array(inital_conditions)
                                    _init_setup_model=True,
                                    device='cuda',
                                    policy_kwargs=policy_dict)
