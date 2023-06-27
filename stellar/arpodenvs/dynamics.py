@@ -1,6 +1,6 @@
 import numpy as np
 #import cupy as np
-import numba as nb
+#import numba as nb
 import pdb
 from matplotlib import pyplot as plt
 from scipy.integrate import solve_ivp
