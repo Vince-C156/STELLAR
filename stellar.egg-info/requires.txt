@@ -1,6 +1,15 @@
+<<<<<<< HEAD
+Pillow
+gymnasium>=0.28.1
+matplotlib>=3.6.2
+mpld3>=0.5.8
+numpy>=1.23.5
+python-dateutil>=2.8.2
+=======
 gymnasium>=0.28.1
 matplotlib>=3.6.2
 numpy>=1.23.5
+>>>>>>> 93258bf2472ca54e0cf85c7a5f855f26cc688051
 scipy>=1.9.3
 stable-baselines3>=2.0.0a8
 tensorboard>=2.11.2
